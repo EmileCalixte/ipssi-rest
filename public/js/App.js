@@ -1,5 +1,5 @@
 class App {
     constructor() {
-        console.log('hello world');
+        this.inseeConnector = new InseeConnector();
     }
 }
