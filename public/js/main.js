@@ -1,1 +1,1 @@
-console.log('hello world');
+new App();
